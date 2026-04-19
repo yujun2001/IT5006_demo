@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Streamlit cache
+.streamlit/
+
+# Asset cache (downloaded from Google Drive at runtime)
+.asset_cache/
+
+# Model files — hosted on Google Drive, not committed to repo
+*.joblib
+
+# Large data files
+*.csv
+*.parquet
+
+# OS
+.DS_Store
+Thumbs.db

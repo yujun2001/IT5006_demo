@@ -1,5 +1,0 @@
-Model,Tier,Weekday Accuracy,Weekend Accuracy,PAI
-Logistic Regression,y_tier2,0.3635,0.4047,1.0016
-Random Forest,y_tier2,0.3632,0.405,1.0015
-XGBoost,y_tier2,0.3611,0.4047,1.0
-Neural Network,y_tier2,0.3952,0.4153,1.0241
