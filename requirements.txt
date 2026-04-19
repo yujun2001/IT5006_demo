@@ -4,4 +4,4 @@ numpy
 scikit-learn==1.7.2
 joblib
 xgboost
-gdown
+gdown==5.2.1

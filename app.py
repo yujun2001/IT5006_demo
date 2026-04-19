@@ -135,7 +135,6 @@ def download_google_drive_folder(folder_url):
         url=str(folder_url),
         output=str(ASSET_CACHE_DIR),
         quiet=False,
-        remaining_ok=True,
         use_cookies=False,
     )
     if not downloaded_paths:
